@@ -46,4 +46,4 @@ python3 -m http.server 5500
 ## ✍️ Autoras
 
 - **Eduarda Ferreira Costa** — [GitHub](https://github.com/dudsfcosta)
-- **Joyce Abrantes Gomes Reis**
+- **Joyce Abrantes Gomes Reis** — [GitHub](https://github.com/abrantesjo)
